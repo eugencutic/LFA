@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1525802309 source:f:\programs\oji\projects\lfa\tema 2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<fstream>
+	"AFN_header.h"
+
+1525373710 f:\programs\oji\projects\lfa\tema 2\afd_header.h
+	"AFN_header.h"
+
+1526624434 f:\programs\oji\projects\lfa\tema 2\afn_header.h
+
